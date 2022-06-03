@@ -1,0 +1,60 @@
+#r1 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: darkgreen;
+  }
+ #m1 {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: darkgreen;
+ }
+ #l1 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: darkgreen;
+    
+}
+#r2 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+  }
+ #m2 {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: rgb(239,165,128);
+ }
+ #l2 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+}
+#r3 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: darkgreen;
+  }
+ #m3 {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: darkgreen;
+ }
+ #l3 {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: darkgreen;
+}
+
+.rows {
+    display: grid;
+}
+
